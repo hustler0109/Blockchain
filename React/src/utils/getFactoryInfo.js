@@ -2,7 +2,7 @@ import { sris } from "@my-app/contracts";
 import { getPairsInfo } from "./getPairsInfo";
 
 export const getFactoryInfo = async (factoryAddress, web3) => {
-  const factory = new web3.eth.Contract(sris.factory, factoryAddress);
+  const factory = new web3.eth.Contract(abis.factory, factoryAddress);
 
   const factoryInfo = {
     feeTo: await factory.methods.feeTo().call(),
