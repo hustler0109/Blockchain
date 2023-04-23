@@ -1,3 +1,9 @@
+export const GOERLI_RPC_ID = 5;
+export const KOVAN_RPC_ID = 42;
+export const MAINNET_RPC_ID = 1;
+export const RINKEBY_RPC_ID = 4;
+export const ROPSTEN_RPC_ID = 3;
+
 
 const commonContracts = {
   factory: "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
