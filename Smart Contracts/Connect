@@ -1,0 +1,4 @@
+export { default as sris } from "./sris";
+export { default as Add-Loc } from "./Add-Loc";
+
+export * from "./Add-Loc";
