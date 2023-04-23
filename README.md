@@ -1,3 +1,3 @@
 # Ethereum
 Using Blockchain and Smart contracts we implement Crypto Trading over Web3
-https://user-images.githubusercontent.com/{www.google.com}/{imageio.forbes.com/specials-images/imageserve/634e4518505e5abbb6c9a293/0x0.jpg?format=jpg&width=1200}
+![image](https://user-images.githubusercontent.com/https://economictimes.indiatimes.com/thumb/msid-96628711,width-1200,height-900,resizemode-4,imgsize-90322/how-will-indian-web3-and-crypto-industry-lead-current-internet-revolution-globally.jpg?from=mdr)
